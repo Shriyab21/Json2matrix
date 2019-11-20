@@ -1,0 +1,11 @@
+Package: Json2matrix
+Type: Package
+Title: It acts as a converter for a JSON file
+Version: 0.1.0
+Author: Shriya Bansal
+Maintainer: Shriya Bansal <shriyab21@gmail.com>
+Description: This package reads a JSON file and builds a matrix
+License: NA
+Encoding: UTF-8
+LazyData: true
+Imports: rjson, data.table, reshape2
